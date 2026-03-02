@@ -16,13 +16,14 @@ Analyze e-commerce sales, products, and customer behavior to improve revenue and
 ## Project Structure
 Ecommerce-Sales-Customer-Analysis/
 ├── data/
-│ └── README.md # dataset info
+│   └── README.md # dataset info
 ├── python/
-│ └── data_upload.ipynb # Python notebook to clean and upload data into MySQL
+│   └── data_upload.ipynb # Python notebook to clean and upload data into MySQL
 ├── sql/
-│ └── analysis_queries.sql # SQL queries for insights
+│   └── analysis_queries.sql # SQL queries for insights
 ├── powerbi/
-│ ├── dashboard.pbix # Power BI dashboard file
+│   ├── dashboard.pbix # Power BI dashboard file
+│   └── screenshots/ # dashboard screenshots (optional for reference)
 └── README.md # project overview
 
 ## Methodology
@@ -43,5 +44,3 @@ Ecommerce-Sales-Customer-Analysis/
 - Focus marketing efforts on **top 10% high-value customers**  
 - Promote **high-selling products across regions**  
 - Create **loyalty programs for repeat buyers** to improve retention
-
-
