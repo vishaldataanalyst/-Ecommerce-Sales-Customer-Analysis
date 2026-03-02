@@ -23,7 +23,6 @@ Ecommerce-Sales-Customer-Analysis/
 │ └── analysis_queries.sql # SQL queries for insights
 ├── powerbi/
 │ ├── dashboard.pbix # Power BI dashboard file
-│ └── screenshots/ # screenshots of dashboard
 └── README.md # project overview
 
 ## Methodology
