@@ -45,15 +45,4 @@ Ecommerce-Sales-Customer-Analysis/
 - Promote **high-selling products across regions**  
 - Create **loyalty programs for repeat buyers** to improve retention
 
-## Power BI Dashboard
-Here are some key visualizations from the dashboard:
 
-![sales overview 1](powerbi/screenshots/sales_overview_1.png)  
-![sales overview 2](powerbi/screenshots/sales_overview_2.png)  
-![sales overview 3](powerbi/screenshots/sales_overview_3.png)  
-![Insights & Recommendations](powerbi/screenshots/insights_and_recommendations.png)
-1. Download the dataset from Kaggle.  
-2. Run the **Python notebook** to clean and upload data into MySQL.  
-3. Execute **SQL queries** to analyze sales and customer behavior.  
-4. Open the **Power BI dashboard** and connect it to the MySQL database.  
-5. Explore interactive visuals and filters to gain insights.
