@@ -48,9 +48,9 @@ Ecommerce-Sales-Customer-Analysis/
 ## Power BI Dashboard
 Here are some key visualizations from the dashboard:
 
-![Sales Overview 1](powerbi/screenshots/sales_overview_1.png)  
-![Sales Overview 2](powerbi/screenshots/sales_overview_2.png)  
-![Sales Overview 3](powerbi/screenshots/sales_overview_3.png)  
+![sales overview 1](powerbi/screenshots/sales_overview_1.png)  
+![sales overview 2](powerbi/screenshots/sales_overview_2.png)  
+![sales overview 3](powerbi/screenshots/sales_overview_3.png)  
 ![Insights & Recommendations](powerbi/screenshots/insights_and_recommendations.png)
 1. Download the dataset from Kaggle.  
 2. Run the **Python notebook** to clean and upload data into MySQL.  
